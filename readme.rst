@@ -17,7 +17,8 @@ a string which defines the class of the activity and then an optional
 note describing the activity. The name of the class can by any
 arbitrary string. The program will add up all the times spent on each
 class of tasks and print the totals. For example, in the example above,
-the total time spent on all ``WORK`` and ``REST``, would be printed.
+the total time spent on all ``WORK`` and ``REST`` tasks would be
+printed.
 
 The software is run with::
 
