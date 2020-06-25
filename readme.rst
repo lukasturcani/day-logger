@@ -1,6 +1,6 @@
 :author: Lukas Turcani
 
-day_logger
+day-logger
 ==========
 
 Tracks activities done during the day and calculates the total time
